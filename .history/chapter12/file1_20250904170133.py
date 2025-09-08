@@ -1,0 +1,90 @@
+# import openpyxl
+
+# wb = openpyxl.load_workbook("example.xlsx")
+# print("All sheets:", wb.sheetnames)
+# first_sheet = wb["Sheet1"]
+# print(first_sheet)
+# Second_sheet = wb["Sheet2"]
+# print(Second_sheet)
+# Third_sheet = wb["Sheet3"]
+# print(Third_sheet)
+# print(first_sheet.title)
+# print(Second_sheet.title)
+# print(Third_sheet.title)
+# another_sheet = wb.active
+# print(another_sheet.title)
+
+
+# EXcel sheet:
+#
+# openpyxl.load_workbook -> takes filename and return workbook data type
+# wb.sheetnames -> return all sheets.
+# this workbook data object is an  the EXcel file.
+# wb.sheetnames -> return the sheets of the workbook
+# wb.active -> return the top sheet when the workbook is opened in Excel.
+
+# Getting Cells from the sheets:
+# once you have a worksheet object
+# to access the cell object by  name
+#
+#
+#
+import openpyxl
+
+wb = openpyxl.load_workbook("example.xlsx")
+# sheet = wb.sheetnames
+sheet1 = wb["Sheet1"]
+call_a1 = sheet1["A1"]
+print(call_a1)
+print(call_a1.value)
+
+sheet1 = wb["Sheet1"]
+cell_2 = sheet1["A2"]
+print(cell_2)
+print(cell_2.value)
+sheet3 = wb["Sheet1"]
+Cell_3 = sheet3["A3"]
+print(Cell_3)
+print(Cell_3.value)
+sheet1 = wb["Sheet1"]
+Cell_4 = sheet1["A4"]
+print(Cell_4)
+print(Cell_4.value)
+sheet1 = wb["Sheet1"]
+Cell_5 = sheet1["A5"]
+print(Cell_5)
+print(Cell_5.value)
+sheet1 = wb["Sheet1"]
+Cell_6 = sheet1["A6"]
+print(Cell_6)
+print(Cell_6.value)
+sheet1 = wb["Sheet1"]
+Cell_7 = sheet1["A7"]
+print(Cell_7)
+print(Cell_7.value)
+
+# to access sheet 2
+Sh2 = wb["Sheet2"]
+Cell1 = Sh2["b1"]
+Cell2 = Sh2["B2"]
+Cell3 = Sh2["B3"]
+Cell4 = Sh2["B4"]
+Cell5 = Sh2["B5"]
+Cell6 = Sh2["B6"]
+Cell7 = Sh2["B7"]
+# print(Cell1.value)
+# print(Cell2)
+# print(Cell3)
+# print(Cell4.value)
+# print(Cell5)
+# print(Cell6)
+# print(Cell7)
+# sheet3 = wb["Sheet3"]
+# wb = openpyxl.load_workbook("example.xlsx")
+# sh2 = wb["Sheet2"]
+# for row in sh2.iter_rows(min_row=1, max_row=7, min_col=2, max_col=2):
+#     for cell in row:
+#         print(cell.value)
+#         print(cell.coordinate)
+#         print(cell.row)
+#         print(cell.column)
