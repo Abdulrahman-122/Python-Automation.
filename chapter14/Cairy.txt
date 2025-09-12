@@ -1,0 +1,4 @@
+few clouds
+Original temperature:306.57f -> minimum temp 306.16f->maximum temp 306.57f
+EG
+Cairo

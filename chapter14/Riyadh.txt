@@ -1,0 +1,4 @@
+clear sky
+Original temperature:315.35f -> minimum temp 315.35f->maximum temp 315.35f
+SA
+Riyadh

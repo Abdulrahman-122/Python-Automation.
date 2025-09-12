@@ -1,0 +1,4 @@
+clear sky
+Original temperature:295.58f -> minimum temp 295.38f->maximum temp 296.26f
+US
+Italy

@@ -1,0 +1,528 @@
+Cairo in:First URL:{
+    "location": {
+        "name": "Cairo",
+        "region": "Al Qahirah",
+        "country": "Egypt",
+        "lat": 30.05,
+        "lon": 31.25,
+        "tz_id": "Africa/Cairo",
+        "localtime_epoch": 1757602122,
+        "localtime": "2025-09-11 17:48"
+    },
+    "current": {
+        "last_updated_epoch": 1757601900,
+        "last_updated": "2025-09-11 17:45",
+        "temp_c": 33.2,
+        "temp_f": 91.8,
+        "is_day": 1,
+        "condition": {
+            "text": "Sunny",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+            "code": 1000
+        },
+        "wind_mph": 16.3,
+        "wind_kph": 26.3,
+        "wind_degree": 50,
+        "wind_dir": "NE",
+        "pressure_mb": 1009.0,
+        "pressure_in": 29.8,
+        "precip_mm": 0.0,
+        "precip_in": 0.0,
+        "humidity": 36,
+        "cloud": 25,
+        "feelslike_c": 31.4,
+        "feelslike_f": 88.5,
+        "windchill_c": 35.5,
+        "windchill_f": 96.0,
+        "heatindex_c": 34.3,
+        "heatindex_f": 93.7,
+        "dewpoint_c": 10.6,
+        "dewpoint_f": 51.1,
+        "vis_km": 10.0,
+        "vis_miles": 6.0,
+        "uv": 1.6,
+        "gust_mph": 19.5,
+        "gust_kph": 31.4,
+        "short_rad": 563.8,
+        "diff_rad": 123.36,
+        "dni": 510.6,
+        "gti": 398.53
+    }
+}Cairo in:Second URL:{
+    "coord": {
+        "lon": 31.2497,
+        "lat": 30.0626
+    },
+    "weather": [
+        {
+            "id": 801,
+            "main": "Clouds",
+            "description": "few clouds",
+            "icon": "02d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 306.57,
+        "feels_like": 306.55,
+        "temp_min": 306.16,
+        "temp_max": 306.57,
+        "pressure": 1008,
+        "humidity": 35,
+        "sea_level": 1008,
+        "grnd_level": 1002
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 7.72,
+        "deg": 360
+    },
+    "clouds": {
+        "all": 20
+    },
+    "dt": 1757601520,
+    "sys": {
+        "type": 1,
+        "id": 2514,
+        "country": "EG",
+        "sunrise": 1757561848,
+        "sunset": 1757606770
+    },
+    "timezone": 10800,
+    "id": 360630,
+    "name": "Cairo",
+    "cod": 200
+}Syria in:First URL:{
+    "location": {
+        "name": "Damascus",
+        "region": "Dimashq",
+        "country": "Syria",
+        "lat": 33.5,
+        "lon": 36.3,
+        "tz_id": "Asia/Damascus",
+        "localtime_epoch": 1757602122,
+        "localtime": "2025-09-11 17:48"
+    },
+    "current": {
+        "last_updated_epoch": 1757601900,
+        "last_updated": "2025-09-11 17:45",
+        "temp_c": 35.1,
+        "temp_f": 95.2,
+        "is_day": 1,
+        "condition": {
+            "text": "Sunny",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+            "code": 1000
+        },
+        "wind_mph": 11.2,
+        "wind_kph": 18.0,
+        "wind_degree": 210,
+        "wind_dir": "SSW",
+        "pressure_mb": 1010.0,
+        "pressure_in": 29.83,
+        "precip_mm": 0.0,
+        "precip_in": 0.0,
+        "humidity": 12,
+        "cloud": 0,
+        "feelslike_c": 34.2,
+        "feelslike_f": 93.5,
+        "windchill_c": 31.7,
+        "windchill_f": 89.1,
+        "heatindex_c": 30.1,
+        "heatindex_f": 86.1,
+        "dewpoint_c": 8.9,
+        "dewpoint_f": 48.1,
+        "vis_km": 10.0,
+        "vis_miles": 6.0,
+        "uv": 1.1,
+        "gust_mph": 12.9,
+        "gust_kph": 20.7,
+        "short_rad": 534.72,
+        "diff_rad": 76.82,
+        "dni": 564.19,
+        "gti": 321.99
+    }
+}Syria in:Second URL:{
+    "coord": {
+        "lon": 38,
+        "lat": 35
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 301.09,
+        "feels_like": 299.9,
+        "temp_min": 301.09,
+        "temp_max": 301.09,
+        "pressure": 1009,
+        "humidity": 22,
+        "sea_level": 1009,
+        "grnd_level": 905
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 5.55,
+        "deg": 330,
+        "gust": 6.56
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1757601820,
+    "sys": {
+        "country": "SY",
+        "sunrise": 1757560081,
+        "sunset": 1757605297
+    },
+    "timezone": 10800,
+    "id": 163843,
+    "name": "Syria",
+    "cod": 200
+}Riyadh in:First URL:{
+    "location": {
+        "name": "Riyadh",
+        "region": "Ar Riyad",
+        "country": "Saudi Arabia",
+        "lat": 24.6408,
+        "lon": 46.7728,
+        "tz_id": "Asia/Riyadh",
+        "localtime_epoch": 1757602074,
+        "localtime": "2025-09-11 17:47"
+    },
+    "current": {
+        "last_updated_epoch": 1757601900,
+        "last_updated": "2025-09-11 17:45",
+        "temp_c": 41.0,
+        "temp_f": 105.8,
+        "is_day": 1,
+        "condition": {
+            "text": "Sunny",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+            "code": 1000
+        },
+        "wind_mph": 16.3,
+        "wind_kph": 26.3,
+        "wind_degree": 68,
+        "wind_dir": "ENE",
+        "pressure_mb": 1008.0,
+        "pressure_in": 29.77,
+        "precip_mm": 0.0,
+        "precip_in": 0.0,
+        "humidity": 6,
+        "cloud": 25,
+        "feelslike_c": 41.4,
+        "feelslike_f": 106.6,
+        "windchill_c": 40.5,
+        "windchill_f": 104.9,
+        "heatindex_c": 40.7,
+        "heatindex_f": 105.2,
+        "dewpoint_c": -1.1,
+        "dewpoint_f": 30.0,
+        "vis_km": 10.0,
+        "vis_miles": 6.0,
+        "uv": 0.4,
+        "gust_mph": 20.7,
+        "gust_kph": 33.3,
+        "short_rad": 402.18,
+        "diff_rad": 82.94,
+        "dni": 401.76,
+        "gti": 325.81
+    }
+}Riyadh in:Second URL:{
+    "coord": {
+        "lon": 46.7219,
+        "lat": 24.6877
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 313.24,
+        "feels_like": 309.91,
+        "temp_min": 313.24,
+        "temp_max": 313.24,
+        "pressure": 1005,
+        "humidity": 8,
+        "sea_level": 1005,
+        "grnd_level": 935
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 5.65,
+        "deg": 67,
+        "gust": 8.07
+    },
+    "clouds": {
+        "all": 5
+    },
+    "dt": 1757601983,
+    "sys": {
+        "country": "SA",
+        "sunrise": 1757558274,
+        "sunset": 1757602919
+    },
+    "timezone": 10800,
+    "id": 108410,
+    "name": "Riyadh",
+    "cod": 200
+}Duplin in:First URL:{
+    "location": {
+        "name": "Duplin",
+        "region": "Samara",
+        "country": "Russia",
+        "lat": 53.05,
+        "lon": 48.2,
+        "tz_id": "Europe/Samara",
+        "localtime_epoch": 1757602127,
+        "localtime": "2025-09-11 18:48"
+    },
+    "current": {
+        "last_updated_epoch": 1757601900,
+        "last_updated": "2025-09-11 18:45",
+        "temp_c": 13.6,
+        "temp_f": 56.5,
+        "is_day": 1,
+        "condition": {
+            "text": "Patchy rain nearby",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/176.png",
+            "code": 1063
+        },
+        "wind_mph": 12.3,
+        "wind_kph": 19.8,
+        "wind_degree": 34,
+        "wind_dir": "NE",
+        "pressure_mb": 1024.0,
+        "pressure_in": 30.25,
+        "precip_mm": 0.16,
+        "precip_in": 0.01,
+        "humidity": 72,
+        "cloud": 79,
+        "feelslike_c": 12.0,
+        "feelslike_f": 53.5,
+        "windchill_c": 12.0,
+        "windchill_f": 53.5,
+        "heatindex_c": 13.6,
+        "heatindex_f": 56.5,
+        "dewpoint_c": 8.6,
+        "dewpoint_f": 47.5,
+        "vis_km": 9.0,
+        "vis_miles": 5.0,
+        "uv": 0.2,
+        "gust_mph": 17.8,
+        "gust_kph": 28.6,
+        "short_rad": 109.66,
+        "diff_rad": 53.04,
+        "dni": 90.7,
+        "gti": 29.35
+    }
+}Duplin in:Second URL:{
+    "cod": "404",
+    "message": "city not found"
+}Oslo in:First URL:{
+    "location": {
+        "name": "Oslo",
+        "region": "Oslo",
+        "country": "Norway",
+        "lat": 59.9167,
+        "lon": 10.75,
+        "tz_id": "Europe/Oslo",
+        "localtime_epoch": 1757602128,
+        "localtime": "2025-09-11 16:48"
+    },
+    "current": {
+        "last_updated_epoch": 1757601900,
+        "last_updated": "2025-09-11 16:45",
+        "temp_c": 14.0,
+        "temp_f": 57.2,
+        "is_day": 1,
+        "condition": {
+            "text": "Partly cloudy",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/116.png",
+            "code": 1003
+        },
+        "wind_mph": 5.6,
+        "wind_kph": 9.0,
+        "wind_degree": 96,
+        "wind_dir": "E",
+        "pressure_mb": 990.0,
+        "pressure_in": 29.23,
+        "precip_mm": 2.32,
+        "precip_in": 0.09,
+        "humidity": 82,
+        "cloud": 75,
+        "feelslike_c": 13.6,
+        "feelslike_f": 56.4,
+        "windchill_c": 14.2,
+        "windchill_f": 57.6,
+        "heatindex_c": 14.6,
+        "heatindex_f": 58.3,
+        "dewpoint_c": 14.2,
+        "dewpoint_f": 57.6,
+        "vis_km": 10.0,
+        "vis_miles": 6.0,
+        "uv": 0.1,
+        "gust_mph": 7.0,
+        "gust_kph": 11.3,
+        "short_rad": 14.74,
+        "diff_rad": 11.81,
+        "dni": 5.29,
+        "gti": 7.38
+    }
+}Oslo in:Second URL:{
+    "coord": {
+        "lon": 10.7461,
+        "lat": 59.9127
+    },
+    "weather": [
+        {
+            "id": 500,
+            "main": "Rain",
+            "description": "light rain",
+            "icon": "10d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 289.4,
+        "feels_like": 289.61,
+        "temp_min": 289.4,
+        "temp_max": 289.4,
+        "pressure": 998,
+        "humidity": 97,
+        "sea_level": 998,
+        "grnd_level": 975
+    },
+    "visibility": 7151,
+    "wind": {
+        "speed": 1.59,
+        "deg": 113,
+        "gust": 5.88
+    },
+    "rain": {
+        "1h": 0.7
+    },
+    "clouds": {
+        "all": 100
+    },
+    "dt": 1757601986,
+    "sys": {
+        "type": 2,
+        "id": 237284,
+        "country": "NO",
+        "sunrise": 1757565350,
+        "sunset": 1757613107
+    },
+    "timezone": 7200,
+    "id": 3143244,
+    "name": "Oslo",
+    "cod": 200
+}sweden in:First URL:{
+    "location": {
+        "name": "Stockholm",
+        "region": "Stockholms Lan",
+        "country": "Sweden",
+        "lat": 59.333,
+        "lon": 18.05,
+        "tz_id": "Europe/Stockholm",
+        "localtime_epoch": 1757602128,
+        "localtime": "2025-09-11 16:48"
+    },
+    "current": {
+        "last_updated_epoch": 1757601900,
+        "last_updated": "2025-09-11 16:45",
+        "temp_c": 18.1,
+        "temp_f": 64.6,
+        "is_day": 1,
+        "condition": {
+            "text": "Light rain",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/296.png",
+            "code": 1183
+        },
+        "wind_mph": 20.4,
+        "wind_kph": 32.8,
+        "wind_degree": 139,
+        "wind_dir": "SE",
+        "pressure_mb": 1005.0,
+        "pressure_in": 29.68,
+        "precip_mm": 3.0,
+        "precip_in": 0.12,
+        "humidity": 88,
+        "cloud": 75,
+        "feelslike_c": 18.1,
+        "feelslike_f": 64.6,
+        "windchill_c": 16.7,
+        "windchill_f": 62.1,
+        "heatindex_c": 16.7,
+        "heatindex_f": 62.1,
+        "dewpoint_c": 14.9,
+        "dewpoint_f": 58.8,
+        "vis_km": 9.0,
+        "vis_miles": 5.0,
+        "uv": 0.3,
+        "gust_mph": 30.1,
+        "gust_kph": 48.5,
+        "short_rad": 106.76,
+        "diff_rad": 63.39,
+        "dni": 79.45,
+        "gti": 22.39
+    }
+}sweden in:Second URL:{
+    "coord": {
+        "lon": 15,
+        "lat": 62
+    },
+    "weather": [
+        {
+            "id": 501,
+            "main": "Rain",
+            "description": "moderate rain",
+            "icon": "10d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 287.58,
+        "feels_like": 287.64,
+        "temp_min": 287.58,
+        "temp_max": 287.58,
+        "pressure": 1006,
+        "humidity": 98,
+        "sea_level": 1006,
+        "grnd_level": 961
+    },
+    "visibility": 7382,
+    "wind": {
+        "speed": 7.24,
+        "deg": 105,
+        "gust": 18.53
+    },
+    "rain": {
+        "1h": 1.78
+    },
+    "clouds": {
+        "all": 100
+    },
+    "dt": 1757601825,
+    "sys": {
+        "country": "SE",
+        "sunrise": 1757564130,
+        "sunset": 1757612286
+    },
+    "timezone": 7200,
+    "id": 2661886,
+    "name": "Sweden",
+    "cod": 200
+}
