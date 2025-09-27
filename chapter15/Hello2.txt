@@ -1,0 +1,20 @@
+this file is by open in python
+And will open by subprocess module.(using start program) 
+
+lap # 1: 0.29 (  0.29)
+lap # 2: 0.78 (  1.08)
+lap # 3: 0.34 (  1.41)
+lap # 4: 0.55 (  1.96)
+lap # 5: 0.31 (  2.27)
+lap # 6: 0.17 (  2.44)
+lap # 7: 0.16 (   2.6)
+
+
+Your Laps:
+lap # 1:  0.3 (   0.3)
+lap # 2: 0.19 (  0.49)
+lap # 3: 0.12 (  0.61)
+lap # 4:  0.1 (  0.71)
+lap # 5: 0.11 (  0.82)
+lap # 6: 0.11 (  0.93)
+lap # 7: 0.26 (  1.19)
