@@ -1,7 +1,0 @@
-# Multiplication Table Maker
-#
-#
-#
-#
-#
-#
